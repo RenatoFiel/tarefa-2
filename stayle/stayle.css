@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(111, 143, 143);
+
+}
+
+
+h2{
+    text-align: left;
+}
+
+.imagem-perfil{
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px black;
+    border: 3px solid black;
+    margin-left: 600px;
+}
+
+
+.paragrafo{
+    text-align: centr;
+    -webkit-text-fill-color: rgb(0, 0, 0); 
+}
+
+title{
+    background-color: #00ffea;
+    border-radius: 50px;
+}
+
+#titulo{
+    text-align: left;
+    color: rgb(0, 0, 0);
+    margin-left: 70px;
+}
+.imagens{
+    width:230px;
+    height:207px;
+    border-radius: 20px;
+}
+.imagens-filmes{
+    width:230px;
+    height:207px;
+    border-radius: 20px;
+}
+.imagens-jogos{
+    width:230px;
+    height:207px;
+    border-radius: 20px;  
+}
+.banner-site{
+    width: 100%;
+height: auto;
+}
+#apresentacao{
+    display: flex;
+    align-items: center;
+    gap: 1px;
+   
+}
+.boxtexto{
+    margin-left:70px;
+    width: 500px;
+}
+.img-fundo{
+    background-color: rgb(140, 199, 179);
+    width: 90%;
+    border-radius: 10px;
+    padding: 15px ;
+    
+
+}
+.foter{
+    background-color:rgb(44, 71, 65);
+    text-align: left;
+    width: 98%;
+    padding: 15px ;
+    border-radius: 10px;
+    margin-top: 100px;
+    height: 100px;
+}
